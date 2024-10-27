@@ -85,6 +85,12 @@ These are the core test cases included in the Cypress test suite:
 
 ## Screenshots
 
+![Alt text](Assets/images/image01.png)
+
+Link to the walkthrough video that demonstrates how a user would invoke the application from the command line and the component and end-to-end tests running and passing:
+
+https://youtu.be/4XzWagycA3k
+
 ## License
 
 Copyright (c) 2024 ASgithub11
